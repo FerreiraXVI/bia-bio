@@ -187,10 +187,10 @@ body {
     content: 'Developer';
 }
 .container .profileLayout .profileBadges .profileBadge.staff:hover::before {
-    content: 'Staff';
+    content: 'Projetista apaixonada';
 }
 .container .profileLayout .profileBadges .profileBadge.certif:hover::before {
-    content: 'Certified';
+    content: 'Literalmente a Rei Ayanami';
 }
 .container .profileLayout .profileBadges .profileBadge.premium:hover::before {
     content: 'Premium';
@@ -208,13 +208,13 @@ body {
     content: 'Graphic Designer';
 }
 .container .profileLayout .profileBadges .profileBadge.imagehost:hover::before {
-    content: 'Image Host';
+    content: 'Omg its gabi hii';
 }
 .container .profileLayout .profileBadges .profileBadge.sweet:hover::before {
     content: 'Candy';
 }
 .container .profileLayout .profileBadges .profileBadge.patrick:hover::before {
-    content: 'St. Patrick';
+    content: 'Tem sorte';
 }
 
 .container .profileLayout .profileBio {
